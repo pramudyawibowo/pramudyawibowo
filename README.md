@@ -2,57 +2,51 @@
 
 ## About Me
 
-- 🔭 I’m currently studying in **Politeknik Negeri Malang**
-- 🌱 I’m currently learning **Artifical Intelligence for Robot**, **Web Development** and some project to help **e-Conservation**
-- 🥾 Indonesian Hiker, 🏕 Camper, and 🏍 Motorcycle Traveller
-- 📫 Just email me for any questions or help 😉
+- 🔭 Currently working as a **Backend Developer** and **Infrastructure Technician** at a technology consulting company
+- 💼 Specializing in **Laravel** and **Express.js** for software development
+- 🐧 Experienced in **Linux server management** (Debian-based distributions) and IoT systems
+- 🐳 Proficient in **Docker containerization** and deployment strategies
+- ☸️ Currently learning **React and React Native** for frontend development, also **Kubernetes** for server scalability and orchestration
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pramudyawibowo/">
     <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:pramudya.wibowo72@gmail.com">
-    <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
 </div>
 
-
-<!-- ### Tools: -->
-### Languages, Tools, and Skills 🛠
-<div align="center">
- <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="javascript" />
- <img src="https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="java" />
- <img src="https://img.shields.io/badge/arduino-4fccf3?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
- <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
- <img src="https://img.shields.io/badge/MySQL-407AFC?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
- <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
- <img src="https://img.shields.io/badge/visual%20Studio-5d2b90?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visualstudio" />
- <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
- <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
- <img src="https://img.shields.io/badge/ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
- <img src="https://img.shields.io/badge/C++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cpp" />
- <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ros" />
- <img src="https://img.shields.io/badge/oracle%20cloud-000000?style=for-the-badge&logo=oracle&logoColor=F80000" alt="oraclecloud" />
- <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
- <img src="https://img.shields.io/badge/docker-384d54?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="docker" />
- <img src="https://img.shields.io/badge/cypress-061d42?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" />
- <img src="https://img.shields.io/badge/composer-white?style=for-the-badge&logo=composer&logoColor=87371c" alt="composer" />
- <img src="https://img.shields.io/badge/React.JS-yellow?style=for-the-badge&logo=react&logoColor=blue" alt="react" />
+### Languages & Programming 💻
+<div align="left">
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+ <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" />
 </div>
 
+### Frontend Tools 🎨
+<div align="left">
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+ <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+ <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react-native" />
+</div>
 
-### GitHub Stats 📈
-<p align="center">
-  <a href="https://github.com/pramudyawibowo">
-    <img src="https://github-readme-stats.vercel.app/api?username=pramudyawibowo&show_icons=true&theme=dark" alt="Pramudya's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramudyawibowo&layout=compact&theme=dark" alt="Pramudya's Language Stats" />
-  </a>
-</p>
+### Backend, Database & Framework 🚀
+<div align="left">
+ <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+ <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+</div>
+
+### Infrastructure & Server 🐧
+<div align="left">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
+ <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+ <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" alt="kong" />
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+ <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
+ <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" alt="harbor" />
+ <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="gitea" />
+ <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="mikrotik" />
+</div>
